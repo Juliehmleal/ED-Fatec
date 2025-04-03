@@ -1,0 +1,14 @@
+/home/julie/Área de trabalho/Fatec2501/ED/Lista03/obj/Debug/net8.0/Lista03.GeneratedMSBuildEditorConfig.editorconfig
+/home/julie/Área de trabalho/Fatec2501/ED/Lista03/obj/Debug/net8.0/Lista03.AssemblyInfoInputs.cache
+/home/julie/Área de trabalho/Fatec2501/ED/Lista03/obj/Debug/net8.0/Lista03.AssemblyInfo.cs
+/home/julie/Área de trabalho/Fatec2501/ED/Lista03/obj/Debug/net8.0/Lista03.csproj.CoreCompileInputs.cache
+/home/julie/Área de trabalho/Fatec2501/ED/Lista03/bin/Debug/net8.0/Lista03
+/home/julie/Área de trabalho/Fatec2501/ED/Lista03/bin/Debug/net8.0/Lista03.deps.json
+/home/julie/Área de trabalho/Fatec2501/ED/Lista03/bin/Debug/net8.0/Lista03.runtimeconfig.json
+/home/julie/Área de trabalho/Fatec2501/ED/Lista03/bin/Debug/net8.0/Lista03.dll
+/home/julie/Área de trabalho/Fatec2501/ED/Lista03/bin/Debug/net8.0/Lista03.pdb
+/home/julie/Área de trabalho/Fatec2501/ED/Lista03/obj/Debug/net8.0/Lista03.dll
+/home/julie/Área de trabalho/Fatec2501/ED/Lista03/obj/Debug/net8.0/refint/Lista03.dll
+/home/julie/Área de trabalho/Fatec2501/ED/Lista03/obj/Debug/net8.0/Lista03.pdb
+/home/julie/Área de trabalho/Fatec2501/ED/Lista03/obj/Debug/net8.0/Lista03.genruntimeconfig.cache
+/home/julie/Área de trabalho/Fatec2501/ED/Lista03/obj/Debug/net8.0/ref/Lista03.dll
